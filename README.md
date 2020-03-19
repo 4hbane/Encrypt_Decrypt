@@ -6,9 +6,9 @@ This project is about Encryption &amp; Decryption using Command Line in java.
 To use this code, go to the  `Ecrypt_Decrypt` Directory: 
 
 - Compile the Main : 
->```java
+> ```java
 javac Main.java
-```
+>```
 You ll see in the `Ecrypt_Decrypt`  `.class` of all classes.
 
 To run it you have several options : 

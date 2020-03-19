@@ -4,13 +4,14 @@
 
 To use this code, go to the `Ecrypt_Decrypt` Directory: 
 
-##### To Compile the Main : 
+- ##### To Compile the Main : 
 ```java
  javac Main.java
 ```
-You ll see in the `Ecrypt_Decrypt`  `.class` of all classes.
+> ou ll see in the `Ecrypt_Decrypt`  `.class` of all classes.
 
-We can pass the following parameters to the command line :
+##### To run this code we can pass several arguments in the command line :
+
 > - **`-alg`** : To choose the which algorithm; we've `shift` or `unicode`. if we didn't specifie by default it will use `shift` Algorirthm.
 > - **`-mode`**: To choose the mode; `enc` or `dec`. If we didn't specifie by default it will use `enc` mode.
 > - **`-data`** : To set the data to encrypt or decrypt.
@@ -21,8 +22,7 @@ We can pass the following parameters to the command line :
 > As you will see in the examples the order of the parameters is not important.
 
 
-##### Examples to run this code :
-
+- Exemples for running the Main :
 ```java
 java -cp . Main -alg unicode -mode enc -key 5  -in input.txt -out protected.txt 
 ```

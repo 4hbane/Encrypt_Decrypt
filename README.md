@@ -4,7 +4,7 @@
 
 To use this code, go to the `Ecrypt_Decrypt` Directory: 
 
-- ##### To Compile the Main : 
+ ##### To Compile the Main : 
 ```java
  javac Main.java
 ```

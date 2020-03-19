@@ -1,8 +1,10 @@
 # Encrypt_Decrypt
+##sub heading
 This project is about Encryption &amp; Decryption using Command Line in java.
 
 
-To use this code, go to the  `Ecrypt_Decrypt` : 
+To use this code, go to the  `Ecrypt_Decrypt` Directory: 
+
 -Compile the Main : 
 ```java
 javac Main.java

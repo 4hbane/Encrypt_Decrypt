@@ -11,12 +11,12 @@ To use this code, go to the  `Ecrypt_Decrypt` Directory:
 ```
 You ll see in the `Ecrypt_Decrypt`  `.class` of all classes.
 
--To run it you have several options : 
+- To run it you have several options : 
 
 We pass the parameters to the command line for instance
->`-alg` : To choose the which algorithm; we've `shift` or `unicode`. if we didn't specifie by default it will use `shift` Algorirthm.
-> `-mode`: To choose the mode; `enc` or `dec`. If we didn't specifie by default it will use `enc` mode.
-> **`-data`** : To set the data to encrypt or decrypt.
+> - `-alg` : To choose the which algorithm; we've `shift` or `unicode`. if we didn't specifie by default it will use `shift` Algorirthm.
+> - `-mode`: To choose the mode; `enc` or `dec`. If we didn't specifie by default it will use `enc` mode.
+> - **`-data`** : To set the data to encrypt or decrypt.
 > *`-key`* : To set the key to encrypt or decrypt.  If we didn't specifie by default it will use `0` as a key.
 > `-in` : To set the Input file to read data from which will be encrypt or decrypt. If we've both `-in` and `-data` we choose `-data` over `-in`.
 > `-out` : To set the Output file to write the result. If we don't have both `-out` we print the result to the standard output.

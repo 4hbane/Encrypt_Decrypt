@@ -8,7 +8,7 @@ To use this code, go to the `Ecrypt_Decrypt` Directory:
 ```java
  javac Main.java
 ```
-> You ll see in the `Ecrypt_Decrypt`  `.class` of all classes.
+> You ll see in the `Ecrypt_Decrypt` Directory `.class` of all classes.
 
 #### To run this code we can pass several arguments in the command line :
 

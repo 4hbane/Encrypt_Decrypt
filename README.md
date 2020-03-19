@@ -7,7 +7,7 @@ To use this code, go to the  `Ecrypt_Decrypt` Directory:
 
 - Compile the Main : 
 ```java
-> javac Main.java
+>javac Main.java
 ```
 You ll see in the `Ecrypt_Decrypt`  `.class` of all classes.
 

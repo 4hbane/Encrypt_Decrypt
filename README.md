@@ -1,5 +1,4 @@
 # Encrypt_Decrypt
-##sub heading
 This project is about Encryption &amp; Decryption using Command Line in java.
 
 
@@ -26,7 +25,7 @@ We pass the parameters to the command line for instance
 Examples:
 
 ```java
-java -cp . Main `-alg` unicode -mode enc -key 5  -in input.txt -out protected.txt 
+java -cp . Main -alg unicode -mode enc -key 5  -in input.txt -out protected.txt 
 ```
 
 ```java

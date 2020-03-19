@@ -4,13 +4,13 @@
 
 To use this code, go to the `Ecrypt_Decrypt` Directory: 
 
- ##### To Compile the Main : 
+ #### To Compile the Main : 
 ```java
  javac Main.java
 ```
-> ou ll see in the `Ecrypt_Decrypt`  `.class` of all classes.
+> You ll see in the `Ecrypt_Decrypt`  `.class` of all classes.
 
-##### To run this code we can pass several arguments in the command line :
+#### To run this code we can pass several arguments in the command line :
 
 > - **`-alg`** : To choose the which algorithm; we've `shift` or `unicode`. if we didn't specifie by default it will use `shift` Algorirthm.
 > - **`-mode`**: To choose the mode; `enc` or `dec`. If we didn't specifie by default it will use `enc` mode.

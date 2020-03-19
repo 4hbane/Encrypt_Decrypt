@@ -1,10 +1,10 @@
 # Encrypt_Decrypt
-###This project is about Encryption &amp; Decryption using Command Line in java.
+### This project is about Encryption &amp; Decryption using Command Line in java.
 
 
 To use this code, go to the `Ecrypt_Decrypt` Directory: 
 
-- Compile the Main : 
+##### To Compile the Main : 
 ```java
  javac Main.java
 ```
@@ -21,9 +21,7 @@ We can pass the following parameters to the command line :
 > As you will see in the examples the order of the parameters is not important.
 
 
-- To run it you have several options : 
-
-Examples:
+##### Examples to run this code :
 
 ```java
 java -cp . Main -alg unicode -mode enc -key 5  -in input.txt -out protected.txt 
